@@ -8,7 +8,7 @@ function TaskPage() {
     const [vidlinks, setVidlink] = useState('');
     const [renderCount, setRenderCount] = useState(0)
     const [videoDetails, setVideoDetails] = useState('')
-    const apiKey = 'AIzaSyBfkSP-wRQTfNikOPwHWHCS2qLbsb2AadQ'
+    const apiKey = ''
     // useEffect (()=>{
     //     setRenderCount(renderCount+1)
     // })
